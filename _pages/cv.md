@@ -60,4 +60,4 @@ Education
   
 Service and leadership
 ======
-* Area Chair: ICML, NeurIPS
+* Area Chair: ICML (2025), NeurIPS (2024, 2025)
