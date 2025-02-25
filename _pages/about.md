@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research at FAIR Meta NYC. I completed my PhD in [Applied Math and Computational Sciences](https://amcs.upenn.edu/) at University of Pennsylvania (specializing in game theory) in May 2018, where I was fortunate to be advised by [Prof. Rakesh V. Vohra](https://sites.google.com/site/quaerereverum9/). Prior to Penn, I was an undergrad in mathematics at Nanjing University.
+I am a Research at FAIR Meta NYC. I completed my PhD in [Applied Math and Computational Sciences](https://amcs.upenn.edu/) at University of Pennsylvania (specializing in game theory) in May 2018, where I was fortunate to be advised by [Prof. Rakesh V. Vohra](https://sites.google.com/site/quaerereverum9/). Prior to Penn, I graduated with an BSc in mathematics at Nanjing University in 2013.
 
 My research has focused on Large Language Models (LLM): self-training and alignment algorithms in general.
 
