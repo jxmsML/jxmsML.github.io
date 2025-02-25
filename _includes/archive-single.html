@@ -33,9 +33,14 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    {% if post.authors %}
+      {% assign highlighted_authors = post.authors | replace: "Jing Xu", "<u>Jing Xu</u>" %}
+      <p>{{ highlighted_authors }}</p>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
